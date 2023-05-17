@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  back_punto_venta:
+    image: ${DOCKER_REGISTRY-}backpuntoventa
+    build:
+      context: .
+      dockerfile: back_punto_venta/Dockerfile

@@ -1,0 +1,16 @@
+C:\Users\lucas\Desktop\proyecto alemania\back_punto_venta\bin\Debug\back_punto_venta.deps.json
+C:\Users\lucas\Desktop\proyecto alemania\back_punto_venta\bin\Debug\back_punto_venta.runtimeconfig.json
+C:\Users\lucas\Desktop\proyecto alemania\back_punto_venta\bin\Debug\appsettings.Development.json
+C:\Users\lucas\Desktop\proyecto alemania\back_punto_venta\bin\Debug\appsettings.json
+C:\Users\lucas\Desktop\proyecto alemania\back_punto_venta\bin\Debug\back_punto_venta.exe
+C:\Users\lucas\Desktop\proyecto alemania\back_punto_venta\bin\Debug\back_punto_venta.dll
+C:\Users\lucas\Desktop\proyecto alemania\back_punto_venta\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\lucas\Desktop\proyecto alemania\back_punto_venta\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\lucas\Desktop\proyecto alemania\back_punto_venta\bin\Debug\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\lucas\Desktop\proyecto alemania\back_punto_venta\bin\Debug\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\lucas\Desktop\proyecto alemania\back_punto_venta\bin\Debug\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\lucas\Desktop\proyecto alemania\back_punto_venta\bin\Debug\Microsoft.OpenApi.dll
+C:\Users\lucas\Desktop\proyecto alemania\back_punto_venta\bin\Debug\back_punto_venta.pdb
+C:\Users\lucas\Desktop\proyecto alemania\back_punto_venta\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\proyecto alemania\back_punto_venta\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\proyecto alemania\back_punto_venta\obj\Debug\docker-compose.dcproj.CopyComplete
