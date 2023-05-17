@@ -1,3 +1,0 @@
-﻿<Project>
-  <Import Project="..\build\back_punto_venta.props" />
-</Project>
