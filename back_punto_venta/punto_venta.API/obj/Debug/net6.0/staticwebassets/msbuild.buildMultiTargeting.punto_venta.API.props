@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\punto_venta.API.props" />
+</Project>

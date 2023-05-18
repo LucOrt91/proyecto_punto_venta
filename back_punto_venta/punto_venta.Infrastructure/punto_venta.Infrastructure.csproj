@@ -15,4 +15,13 @@
     <Folder Include="Persistence\Repositories\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="System.Linq.Dynamic.Core" Version="1.3.2" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\punto_venta.Domain\punto_venta.Domain.csproj" />
+    <ProjectReference Include="..\punto_venta.Utilities\punto_venta.Utilities.csproj" />
+  </ItemGroup>
+
 </Project>

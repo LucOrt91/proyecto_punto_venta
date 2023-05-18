@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1E3UiwEFPR+LIxd9l0NtE4QkR7MuLOCxWSiPOtqaSAw=",
+  "Source": "punto_venta.API",
+  "BasePath": "_content/punto_venta.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,14 @@
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Domain\bin\Debug\net6.0\punto_venta.Domain.deps.json
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Domain\bin\Debug\net6.0\punto_venta.Domain.runtimeconfig.json
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Domain\bin\Debug\net6.0\punto_venta.Domain.dll
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Domain\bin\Debug\net6.0\punto_venta.Domain.pdb
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Domain\obj\Debug\net6.0\punto_venta.Domain.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Domain\obj\Debug\net6.0\punto_venta.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Domain\obj\Debug\net6.0\punto_venta.Domain.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Domain\obj\Debug\net6.0\punto_venta.Domain.AssemblyInfo.cs
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Domain\obj\Debug\net6.0\punto_venta.Domain.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Domain\obj\Debug\net6.0\punto_venta.Domain.dll
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Domain\obj\Debug\net6.0\refint\punto_venta.Domain.dll
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Domain\obj\Debug\net6.0\punto_venta.Domain.pdb
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Domain\obj\Debug\net6.0\punto_venta.Domain.genruntimeconfig.cache
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Domain\obj\Debug\net6.0\ref\punto_venta.Domain.dll

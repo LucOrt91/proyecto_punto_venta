@@ -16,4 +16,17 @@
     <Folder Include="Services\" />
   </ItemGroup>
 
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="12.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="12.0.1" />
+    <PackageReference Include="Azure.Storage.Blobs" Version="12.16.0" />
+    <PackageReference Include="FluentValidation.AspNetCore" Version="11.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\punto_venta.Domain\punto_venta.Domain.csproj" />
+    <ProjectReference Include="..\punto_venta.Infrastructure\punto_venta.Infrastructure.csproj" />
+    <ProjectReference Include="..\punto_venta.Utilities\punto_venta.Utilities.csproj" />
+  </ItemGroup>
+
 </Project>

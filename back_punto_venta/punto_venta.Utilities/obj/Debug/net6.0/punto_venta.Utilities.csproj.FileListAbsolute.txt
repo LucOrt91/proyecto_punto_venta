@@ -1,0 +1,12 @@
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Utilities\bin\Debug\net6.0\punto_venta.Utilities.deps.json
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Utilities\bin\Debug\net6.0\punto_venta.Utilities.dll
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Utilities\bin\Debug\net6.0\punto_venta.Utilities.pdb
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Utilities\obj\Debug\net6.0\punto_venta.Utilities.csproj.AssemblyReference.cache
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Utilities\obj\Debug\net6.0\punto_venta.Utilities.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Utilities\obj\Debug\net6.0\punto_venta.Utilities.AssemblyInfoInputs.cache
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Utilities\obj\Debug\net6.0\punto_venta.Utilities.AssemblyInfo.cs
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Utilities\obj\Debug\net6.0\punto_venta.Utilities.csproj.CoreCompileInputs.cache
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Utilities\obj\Debug\net6.0\punto_venta.Utilities.dll
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Utilities\obj\Debug\net6.0\refint\punto_venta.Utilities.dll
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Utilities\obj\Debug\net6.0\punto_venta.Utilities.pdb
+C:\Users\lucas\Desktop\proyecto alemania\proyecto_punto_venta\back_punto_venta\punto_venta.Utilities\obj\Debug\net6.0\ref\punto_venta.Utilities.dll
